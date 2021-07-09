@@ -1,0 +1,4191 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/APIHelper.swift",
+      "line": 9,
+      "symbol": "APIHelper",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/APIHelper.swift",
+      "line": 10,
+      "symbol": "APIHelper.rejectNil(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/APIHelper.swift",
+      "line": 23,
+      "symbol": "APIHelper.rejectNilHeaders(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/APIHelper.swift",
+      "line": 33,
+      "symbol": "APIHelper.convertBoolToString(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/APIHelper.swift",
+      "line": 48,
+      "symbol": "APIHelper.mapValueToPathItem(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/APIHelper.swift",
+      "line": 55,
+      "symbol": "APIHelper.mapValuesToQueryItems(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/CodableHelper.swift",
+      "line": 10,
+      "symbol": "CodableHelper",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/CodableHelper.swift",
+      "line": 28,
+      "symbol": "CodableHelper.dateFormatter",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/CodableHelper.swift",
+      "line": 32,
+      "symbol": "CodableHelper.jsonDecoder",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/CodableHelper.swift",
+      "line": 36,
+      "symbol": "CodableHelper.jsonEncoder",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/CodableHelper.swift",
+      "line": 41,
+      "symbol": "CodableHelper.decode(_:from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/CodableHelper.swift",
+      "line": 45,
+      "symbol": "CodableHelper.encode(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/CodableHelper.swift",
+      "line": 49,
+      "symbol": "CodableHelper.toErrorBody(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/Models/DeletePredicateRequest.swift",
+      "line": 20,
+      "symbol": "DeletePredicateRequest.init(start:stop:predicate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/Models/Dialect.swift",
+      "line": 13,
+      "symbol": "Dialect.Annotations",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/Models/Dialect.swift",
+      "line": 14,
+      "symbol": "Dialect.Annotations.group",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/Models/Dialect.swift",
+      "line": 15,
+      "symbol": "Dialect.Annotations.datatype",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/Models/Dialect.swift",
+      "line": 16,
+      "symbol": "Dialect.Annotations._default",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/Models/Dialect.swift",
+      "line": 18,
+      "symbol": "Dialect.DateTimeFormat",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/Models/Dialect.swift",
+      "line": 19,
+      "symbol": "Dialect.DateTimeFormat.rfc3339",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/Models/Dialect.swift",
+      "line": 20,
+      "symbol": "Dialect.DateTimeFormat.rfc3339nano",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/Models/Dialect.swift",
+      "line": 33,
+      "symbol": "Dialect.init(header:delimiter:annotations:commentPrefix:dateTimeFormat:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/Models/Query.swift",
+      "line": 13,
+      "symbol": "Query.ModelType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/Models/Query.swift",
+      "line": 14,
+      "symbol": "Query.ModelType.flux",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/Models/Query.swift",
+      "line": 22,
+      "symbol": "Query.dialect",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/Models/Query.swift",
+      "line": 26,
+      "symbol": "Query.init(query:type:params:dialect:now:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/OpenISO8601DateFormatter.swift",
+      "line": 11,
+      "symbol": "OpenISO8601DateFormatter",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Generated/OpenISO8601DateFormatter.swift",
+      "line": 39,
+      "symbol": "OpenISO8601DateFormatter.date(from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Point.swift",
+      "line": 185,
+      "symbol": "InfluxDBClient.Point.TimestampValue.interval(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwift/Point.swift",
+      "line": 187,
+      "symbol": "InfluxDBClient.Point.TimestampValue.date(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/AuthorizationsAPI.swift",
+      "line": 14,
+      "symbol": "InfluxDB2API.AuthorizationsAPI",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/AuthorizationsAPI.swift",
+      "line": 17,
+      "symbol": "InfluxDB2API.AuthorizationsAPI.init(influxDB2API:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/BucketsAPI.swift",
+      "line": 14,
+      "symbol": "InfluxDB2API.BucketsAPI",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/BucketsAPI.swift",
+      "line": 17,
+      "symbol": "InfluxDB2API.BucketsAPI.init(influxDB2API:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/DBRPsAPI.swift",
+      "line": 14,
+      "symbol": "InfluxDB2API.DBRPsAPI",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/DBRPsAPI.swift",
+      "line": 17,
+      "symbol": "InfluxDB2API.DBRPsAPI.init(influxDB2API:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/HealthAPI.swift",
+      "line": 14,
+      "symbol": "InfluxDB2API.HealthAPI",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/HealthAPI.swift",
+      "line": 17,
+      "symbol": "InfluxDB2API.HealthAPI.init(influxDB2API:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/LabelsAPI.swift",
+      "line": 14,
+      "symbol": "InfluxDB2API.LabelsAPI",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/LabelsAPI.swift",
+      "line": 17,
+      "symbol": "InfluxDB2API.LabelsAPI.init(influxDB2API:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/OrganizationsAPI.swift",
+      "line": 14,
+      "symbol": "InfluxDB2API.OrganizationsAPI",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/OrganizationsAPI.swift",
+      "line": 17,
+      "symbol": "InfluxDB2API.OrganizationsAPI.init(influxDB2API:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/ReadyAPI.swift",
+      "line": 14,
+      "symbol": "InfluxDB2API.ReadyAPI",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/ReadyAPI.swift",
+      "line": 17,
+      "symbol": "InfluxDB2API.ReadyAPI.init(influxDB2API:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/ScraperTargetsAPI.swift",
+      "line": 14,
+      "symbol": "InfluxDB2API.ScraperTargetsAPI",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/ScraperTargetsAPI.swift",
+      "line": 17,
+      "symbol": "InfluxDB2API.ScraperTargetsAPI.init(influxDB2API:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/SecretsAPI.swift",
+      "line": 14,
+      "symbol": "InfluxDB2API.SecretsAPI",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/SecretsAPI.swift",
+      "line": 17,
+      "symbol": "InfluxDB2API.SecretsAPI.init(influxDB2API:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/SetupAPI.swift",
+      "line": 14,
+      "symbol": "InfluxDB2API.SetupAPI",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/SetupAPI.swift",
+      "line": 17,
+      "symbol": "InfluxDB2API.SetupAPI.init(influxDB2API:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/SourcesAPI.swift",
+      "line": 14,
+      "symbol": "InfluxDB2API.SourcesAPI",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/SourcesAPI.swift",
+      "line": 17,
+      "symbol": "InfluxDB2API.SourcesAPI.init(influxDB2API:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/TasksAPI.swift",
+      "line": 14,
+      "symbol": "InfluxDB2API.TasksAPI",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/TasksAPI.swift",
+      "line": 17,
+      "symbol": "InfluxDB2API.TasksAPI.init(influxDB2API:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/TasksAPI.swift",
+      "line": 271,
+      "symbol": "InfluxDB2API.TasksAPI.Status_getTasks.active",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/TasksAPI.swift",
+      "line": 272,
+      "symbol": "InfluxDB2API.TasksAPI.Status_getTasks.inactive",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/UsersAPI.swift",
+      "line": 14,
+      "symbol": "InfluxDB2API.UsersAPI",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/UsersAPI.swift",
+      "line": 17,
+      "symbol": "InfluxDB2API.UsersAPI.init(influxDB2API:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/VariablesAPI.swift",
+      "line": 14,
+      "symbol": "InfluxDB2API.VariablesAPI",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/APIs/VariablesAPI.swift",
+      "line": 17,
+      "symbol": "InfluxDB2API.VariablesAPI.init(influxDB2API:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Extensions.swift",
+      "line": 115,
+      "symbol": "KeyedEncodingContainerProtocol.encodeArray(_:forKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Extensions.swift",
+      "line": 120,
+      "symbol": "KeyedEncodingContainerProtocol.encodeArrayIfPresent(_:forKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Extensions.swift",
+      "line": 126,
+      "symbol": "KeyedEncodingContainerProtocol.encodeMap(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Extensions.swift",
+      "line": 132,
+      "symbol": "KeyedEncodingContainerProtocol.encodeMapIfPresent(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Extensions.swift",
+      "line": 142,
+      "symbol": "KeyedDecodingContainerProtocol.decodeArray(_:forKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Extensions.swift",
+      "line": 154,
+      "symbol": "KeyedDecodingContainerProtocol.decodeArrayIfPresent(_:forKey:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Extensions.swift",
+      "line": 164,
+      "symbol": "KeyedDecodingContainerProtocol.decodeMap(_:excludedKeys:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/JSONDataEncoding.swift",
+      "line": 13,
+      "symbol": "JSONDataEncoding",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/JSONDataEncoding.swift",
+      "line": 46,
+      "symbol": "JSONDataEncoding.encodingParameters(jsonData:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/JSONDataEncoding.swift",
+      "line": 545,
+      "symbol": "JSONDataEncoding",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/JSONEncodingHelper.swift",
+      "line": 11,
+      "symbol": "JSONEncodingHelper",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/JSONEncodingHelper.swift",
+      "line": 13,
+      "symbol": "JSONEncodingHelper.encodingParameters(forEncodableObject:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/JSONEncodingHelper.swift",
+      "line": 30,
+      "symbol": "JSONEncodingHelper.encodingParameters(forEncodableObject:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AddResourceMemberRequestBody.swift",
+      "line": 10,
+      "symbol": "AddResourceMemberRequestBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AddResourceMemberRequestBody.swift",
+      "line": 12,
+      "symbol": "AddResourceMemberRequestBody.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AddResourceMemberRequestBody.swift",
+      "line": 13,
+      "symbol": "AddResourceMemberRequestBody.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AddResourceMemberRequestBody.swift",
+      "line": 15,
+      "symbol": "AddResourceMemberRequestBody.init(id:name:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Authorization.swift",
+      "line": 10,
+      "symbol": "Authorization",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Authorization.swift",
+      "line": 12,
+      "symbol": "Authorization.Status",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Authorization.swift",
+      "line": 13,
+      "symbol": "Authorization.Status.active",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Authorization.swift",
+      "line": 14,
+      "symbol": "Authorization.Status.inactive",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Authorization.swift",
+      "line": 20,
+      "symbol": "Authorization.createdAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Authorization.swift",
+      "line": 21,
+      "symbol": "Authorization.updatedAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Authorization.swift",
+      "line": 26,
+      "symbol": "Authorization.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Authorization.swift",
+      "line": 35,
+      "symbol": "Authorization.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Authorization.swift",
+      "line": 37,
+      "symbol": "Authorization.init(status:description:createdAt:updatedAt:orgID:permissions:id:token:userID:user:org:links:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AuthorizationLinks.swift",
+      "line": 10,
+      "symbol": "AuthorizationAllOfLinks",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AuthorizationLinks.swift",
+      "line": 17,
+      "symbol": "AuthorizationAllOfLinks.init(_self:user:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AuthorizationLinks.swift",
+      "line": 22,
+      "symbol": "AuthorizationAllOfLinks.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AuthorizationLinks.swift",
+      "line": 23,
+      "symbol": "AuthorizationAllOfLinks.CodingKeys._self",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AuthorizationLinks.swift",
+      "line": 24,
+      "symbol": "AuthorizationAllOfLinks.CodingKeys.user",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AuthorizationPostRequest.swift",
+      "line": 10,
+      "symbol": "AuthorizationPostRequest",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AuthorizationPostRequest.swift",
+      "line": 12,
+      "symbol": "AuthorizationPostRequest.Status",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AuthorizationPostRequest.swift",
+      "line": 13,
+      "symbol": "AuthorizationPostRequest.Status.active",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AuthorizationPostRequest.swift",
+      "line": 14,
+      "symbol": "AuthorizationPostRequest.Status.inactive",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AuthorizationPostRequest.swift",
+      "line": 27,
+      "symbol": "AuthorizationPostRequest.init(status:description:orgID:userID:permissions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AuthorizationUpdateRequest.swift",
+      "line": 10,
+      "symbol": "AuthorizationUpdateRequest",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AuthorizationUpdateRequest.swift",
+      "line": 12,
+      "symbol": "AuthorizationUpdateRequest.Status",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AuthorizationUpdateRequest.swift",
+      "line": 13,
+      "symbol": "AuthorizationUpdateRequest.Status.active",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AuthorizationUpdateRequest.swift",
+      "line": 14,
+      "symbol": "AuthorizationUpdateRequest.Status.inactive",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/AuthorizationUpdateRequest.swift",
+      "line": 21,
+      "symbol": "AuthorizationUpdateRequest.init(status:description:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Authorizations.swift",
+      "line": 10,
+      "symbol": "Authorizations",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Authorizations.swift",
+      "line": 12,
+      "symbol": "Authorizations.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Authorizations.swift",
+      "line": 13,
+      "symbol": "Authorizations.authorizations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Authorizations.swift",
+      "line": 15,
+      "symbol": "Authorizations.init(links:authorizations:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 10,
+      "symbol": "Bucket",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 12,
+      "symbol": "Bucket.ModelType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 13,
+      "symbol": "Bucket.ModelType.user",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 14,
+      "symbol": "Bucket.ModelType.system",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 16,
+      "symbol": "Bucket.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 17,
+      "symbol": "Bucket.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 18,
+      "symbol": "Bucket.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 19,
+      "symbol": "Bucket.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 20,
+      "symbol": "Bucket.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 21,
+      "symbol": "Bucket.orgID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 22,
+      "symbol": "Bucket.rp",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 23,
+      "symbol": "Bucket.schemaType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 24,
+      "symbol": "Bucket.createdAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 25,
+      "symbol": "Bucket.updatedAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 28,
+      "symbol": "Bucket.labels",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Bucket.swift",
+      "line": 30,
+      "symbol": "Bucket.init(links:id:type:name:description:orgID:rp:schemaType:createdAt:updatedAt:retentionRules:labels:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/BucketLinks.swift",
+      "line": 10,
+      "symbol": "BucketLinks",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/BucketLinks.swift",
+      "line": 25,
+      "symbol": "BucketLinks.init(labels:members:org:owners:_self:write:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/BucketLinks.swift",
+      "line": 34,
+      "symbol": "BucketLinks.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/BucketLinks.swift",
+      "line": 35,
+      "symbol": "BucketLinks.CodingKeys.labels",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/BucketLinks.swift",
+      "line": 36,
+      "symbol": "BucketLinks.CodingKeys.members",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/BucketLinks.swift",
+      "line": 37,
+      "symbol": "BucketLinks.CodingKeys.org",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/BucketLinks.swift",
+      "line": 38,
+      "symbol": "BucketLinks.CodingKeys.owners",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/BucketLinks.swift",
+      "line": 39,
+      "symbol": "BucketLinks.CodingKeys._self",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/BucketLinks.swift",
+      "line": 40,
+      "symbol": "BucketLinks.CodingKeys.write",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Buckets.swift",
+      "line": 10,
+      "symbol": "Buckets",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Buckets.swift",
+      "line": 12,
+      "symbol": "Buckets.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Buckets.swift",
+      "line": 13,
+      "symbol": "Buckets.buckets",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Buckets.swift",
+      "line": 15,
+      "symbol": "Buckets.init(links:buckets:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRP.swift",
+      "line": 10,
+      "symbol": "DBRP",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRP.swift",
+      "line": 24,
+      "symbol": "DBRP.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRP.swift",
+      "line": 26,
+      "symbol": "DBRP.init(id:orgID:bucketID:database:retentionPolicy:_default:links:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRP.swift",
+      "line": 36,
+      "symbol": "DBRP.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRP.swift",
+      "line": 37,
+      "symbol": "DBRP.CodingKeys.id",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRP.swift",
+      "line": 38,
+      "symbol": "DBRP.CodingKeys.orgID",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRP.swift",
+      "line": 39,
+      "symbol": "DBRP.CodingKeys.bucketID",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRP.swift",
+      "line": 40,
+      "symbol": "DBRP.CodingKeys.database",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRP.swift",
+      "line": 41,
+      "symbol": "DBRP.CodingKeys.retentionPolicy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRP.swift",
+      "line": 42,
+      "symbol": "DBRP.CodingKeys._default",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRP.swift",
+      "line": 43,
+      "symbol": "DBRP.CodingKeys.links",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPCreate.swift",
+      "line": 10,
+      "symbol": "DBRPCreate",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPCreate.swift",
+      "line": 25,
+      "symbol": "DBRPCreate.init(orgID:org:bucketID:database:retentionPolicy:_default:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPCreate.swift",
+      "line": 34,
+      "symbol": "DBRPCreate.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPCreate.swift",
+      "line": 35,
+      "symbol": "DBRPCreate.CodingKeys.orgID",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPCreate.swift",
+      "line": 36,
+      "symbol": "DBRPCreate.CodingKeys.org",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPCreate.swift",
+      "line": 37,
+      "symbol": "DBRPCreate.CodingKeys.bucketID",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPCreate.swift",
+      "line": 38,
+      "symbol": "DBRPCreate.CodingKeys.database",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPCreate.swift",
+      "line": 39,
+      "symbol": "DBRPCreate.CodingKeys.retentionPolicy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPCreate.swift",
+      "line": 40,
+      "symbol": "DBRPCreate.CodingKeys._default",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPGet.swift",
+      "line": 10,
+      "symbol": "DBRPGet",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPGet.swift",
+      "line": 12,
+      "symbol": "DBRPGet.content",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPGet.swift",
+      "line": 14,
+      "symbol": "DBRPGet.init(content:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPUpdate.swift",
+      "line": 10,
+      "symbol": "DBRPUpdate",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPUpdate.swift",
+      "line": 14,
+      "symbol": "DBRPUpdate._default",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPUpdate.swift",
+      "line": 16,
+      "symbol": "DBRPUpdate.init(retentionPolicy:_default:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPUpdate.swift",
+      "line": 21,
+      "symbol": "DBRPUpdate.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPUpdate.swift",
+      "line": 22,
+      "symbol": "DBRPUpdate.CodingKeys.retentionPolicy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPUpdate.swift",
+      "line": 23,
+      "symbol": "DBRPUpdate.CodingKeys._default",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPs.swift",
+      "line": 10,
+      "symbol": "DBRPs",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPs.swift",
+      "line": 12,
+      "symbol": "DBRPs.content",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/DBRPs.swift",
+      "line": 14,
+      "symbol": "DBRPs.init(content:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/HealthCheck.swift",
+      "line": 10,
+      "symbol": "HealthCheck",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/HealthCheck.swift",
+      "line": 12,
+      "symbol": "HealthCheck.Status",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/HealthCheck.swift",
+      "line": 13,
+      "symbol": "HealthCheck.Status.pass",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/HealthCheck.swift",
+      "line": 14,
+      "symbol": "HealthCheck.Status.fail",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/HealthCheck.swift",
+      "line": 16,
+      "symbol": "HealthCheck.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/HealthCheck.swift",
+      "line": 17,
+      "symbol": "HealthCheck.message",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/HealthCheck.swift",
+      "line": 18,
+      "symbol": "HealthCheck.checks",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/HealthCheck.swift",
+      "line": 19,
+      "symbol": "HealthCheck.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/HealthCheck.swift",
+      "line": 20,
+      "symbol": "HealthCheck.version",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/HealthCheck.swift",
+      "line": 21,
+      "symbol": "HealthCheck.commit",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/HealthCheck.swift",
+      "line": 23,
+      "symbol": "HealthCheck.init(name:message:checks:status:version:commit:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/IsOnboarding.swift",
+      "line": 10,
+      "symbol": "IsOnboarding",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/IsOnboarding.swift",
+      "line": 15,
+      "symbol": "IsOnboarding.init(allowed:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Label.swift",
+      "line": 10,
+      "symbol": "Label",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Label.swift",
+      "line": 12,
+      "symbol": "Label.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Label.swift",
+      "line": 13,
+      "symbol": "Label.orgID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Label.swift",
+      "line": 14,
+      "symbol": "Label.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Label.swift",
+      "line": 18,
+      "symbol": "Label.init(id:orgID:name:properties:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelCreateRequest.swift",
+      "line": 10,
+      "symbol": "LabelCreateRequest",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelCreateRequest.swift",
+      "line": 12,
+      "symbol": "LabelCreateRequest.orgID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelCreateRequest.swift",
+      "line": 13,
+      "symbol": "LabelCreateRequest.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelCreateRequest.swift",
+      "line": 17,
+      "symbol": "LabelCreateRequest.init(orgID:name:properties:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelMapping.swift",
+      "line": 10,
+      "symbol": "LabelMapping",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelMapping.swift",
+      "line": 12,
+      "symbol": "LabelMapping.labelID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelMapping.swift",
+      "line": 14,
+      "symbol": "LabelMapping.init(labelID:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelResponse.swift",
+      "line": 10,
+      "symbol": "LabelResponse",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelResponse.swift",
+      "line": 12,
+      "symbol": "LabelResponse.label",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelResponse.swift",
+      "line": 13,
+      "symbol": "LabelResponse.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelResponse.swift",
+      "line": 15,
+      "symbol": "LabelResponse.init(label:links:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelUpdate.swift",
+      "line": 10,
+      "symbol": "LabelUpdate",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelUpdate.swift",
+      "line": 12,
+      "symbol": "LabelUpdate.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelUpdate.swift",
+      "line": 16,
+      "symbol": "LabelUpdate.init(name:properties:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelsResponse.swift",
+      "line": 10,
+      "symbol": "LabelsResponse",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelsResponse.swift",
+      "line": 12,
+      "symbol": "LabelsResponse.labels",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelsResponse.swift",
+      "line": 13,
+      "symbol": "LabelsResponse.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LabelsResponse.swift",
+      "line": 15,
+      "symbol": "LabelsResponse.init(labels:links:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Links.swift",
+      "line": 10,
+      "symbol": "Links",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Links.swift",
+      "line": 19,
+      "symbol": "Links.init(next:_self:prev:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Links.swift",
+      "line": 25,
+      "symbol": "Links.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Links.swift",
+      "line": 26,
+      "symbol": "Links.CodingKeys.next",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Links.swift",
+      "line": 27,
+      "symbol": "Links.CodingKeys._self",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Links.swift",
+      "line": 28,
+      "symbol": "Links.CodingKeys.prev",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LogEvent.swift",
+      "line": 10,
+      "symbol": "LogEvent",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/LogEvent.swift",
+      "line": 19,
+      "symbol": "LogEvent.init(time:message:runID:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Logs.swift",
+      "line": 10,
+      "symbol": "Logs",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Logs.swift",
+      "line": 12,
+      "symbol": "Logs.events",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Logs.swift",
+      "line": 14,
+      "symbol": "Logs.init(events:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OnboardingRequest.swift",
+      "line": 10,
+      "symbol": "OnboardingRequest",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OnboardingRequest.swift",
+      "line": 12,
+      "symbol": "OnboardingRequest.username",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OnboardingRequest.swift",
+      "line": 13,
+      "symbol": "OnboardingRequest.password",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OnboardingRequest.swift",
+      "line": 14,
+      "symbol": "OnboardingRequest.org",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OnboardingRequest.swift",
+      "line": 15,
+      "symbol": "OnboardingRequest.bucket",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OnboardingRequest.swift",
+      "line": 16,
+      "symbol": "OnboardingRequest.retentionPeriodSeconds",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OnboardingRequest.swift",
+      "line": 23,
+      "symbol": "OnboardingRequest.init(username:password:org:bucket:retentionPeriodSeconds:retentionPeriodHrs:token:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OnboardingResponse.swift",
+      "line": 10,
+      "symbol": "OnboardingResponse",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OnboardingResponse.swift",
+      "line": 12,
+      "symbol": "OnboardingResponse.user",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OnboardingResponse.swift",
+      "line": 13,
+      "symbol": "OnboardingResponse.org",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OnboardingResponse.swift",
+      "line": 14,
+      "symbol": "OnboardingResponse.bucket",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OnboardingResponse.swift",
+      "line": 15,
+      "symbol": "OnboardingResponse.auth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OnboardingResponse.swift",
+      "line": 17,
+      "symbol": "OnboardingResponse.init(user:org:bucket:auth:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Organization.swift",
+      "line": 10,
+      "symbol": "Organization",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Organization.swift",
+      "line": 12,
+      "symbol": "Organization.Status",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Organization.swift",
+      "line": 13,
+      "symbol": "Organization.Status.active",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Organization.swift",
+      "line": 14,
+      "symbol": "Organization.Status.inactive",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Organization.swift",
+      "line": 16,
+      "symbol": "Organization.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Organization.swift",
+      "line": 17,
+      "symbol": "Organization.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Organization.swift",
+      "line": 18,
+      "symbol": "Organization.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Organization.swift",
+      "line": 19,
+      "symbol": "Organization.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Organization.swift",
+      "line": 20,
+      "symbol": "Organization.createdAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Organization.swift",
+      "line": 21,
+      "symbol": "Organization.updatedAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Organization.swift",
+      "line": 25,
+      "symbol": "Organization.init(links:id:name:description:createdAt:updatedAt:status:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OrganizationLinks.swift",
+      "line": 10,
+      "symbol": "OrganizationLinks",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OrganizationLinks.swift",
+      "line": 29,
+      "symbol": "OrganizationLinks.init(_self:members:owners:labels:secrets:buckets:tasks:dashboards:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OrganizationLinks.swift",
+      "line": 40,
+      "symbol": "OrganizationLinks.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OrganizationLinks.swift",
+      "line": 41,
+      "symbol": "OrganizationLinks.CodingKeys._self",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OrganizationLinks.swift",
+      "line": 42,
+      "symbol": "OrganizationLinks.CodingKeys.members",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OrganizationLinks.swift",
+      "line": 43,
+      "symbol": "OrganizationLinks.CodingKeys.owners",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OrganizationLinks.swift",
+      "line": 44,
+      "symbol": "OrganizationLinks.CodingKeys.labels",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OrganizationLinks.swift",
+      "line": 45,
+      "symbol": "OrganizationLinks.CodingKeys.secrets",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OrganizationLinks.swift",
+      "line": 46,
+      "symbol": "OrganizationLinks.CodingKeys.buckets",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OrganizationLinks.swift",
+      "line": 47,
+      "symbol": "OrganizationLinks.CodingKeys.tasks",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/OrganizationLinks.swift",
+      "line": 48,
+      "symbol": "OrganizationLinks.CodingKeys.dashboards",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Organizations.swift",
+      "line": 10,
+      "symbol": "Organizations",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Organizations.swift",
+      "line": 12,
+      "symbol": "Organizations.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Organizations.swift",
+      "line": 13,
+      "symbol": "Organizations.orgs",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Organizations.swift",
+      "line": 15,
+      "symbol": "Organizations.init(links:orgs:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PasswordResetBody.swift",
+      "line": 10,
+      "symbol": "PasswordResetBody",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PasswordResetBody.swift",
+      "line": 12,
+      "symbol": "PasswordResetBody.password",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PasswordResetBody.swift",
+      "line": 14,
+      "symbol": "PasswordResetBody.init(password:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PatchBucketRequest.swift",
+      "line": 13,
+      "symbol": "PatchBucketRequest.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PatchBucketRequest.swift",
+      "line": 14,
+      "symbol": "PatchBucketRequest.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PatchBucketRequest.swift",
+      "line": 18,
+      "symbol": "PatchBucketRequest.init(name:description:retentionRules:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PatchOrganizationRequest.swift",
+      "line": 10,
+      "symbol": "PatchOrganizationRequest",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PatchOrganizationRequest.swift",
+      "line": 17,
+      "symbol": "PatchOrganizationRequest.init(name:description:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PatchRetentionRule.swift",
+      "line": 13,
+      "symbol": "PatchRetentionRule.ModelType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PatchRetentionRule.swift",
+      "line": 14,
+      "symbol": "PatchRetentionRule.ModelType.expire",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PatchRetentionRule.swift",
+      "line": 16,
+      "symbol": "PatchRetentionRule.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PatchRetentionRule.swift",
+      "line": 22,
+      "symbol": "PatchRetentionRule.init(type:everySeconds:shardGroupDurationSeconds:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Permission.swift",
+      "line": 10,
+      "symbol": "Permission",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Permission.swift",
+      "line": 12,
+      "symbol": "Permission.Action",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Permission.swift",
+      "line": 13,
+      "symbol": "Permission.Action.read",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Permission.swift",
+      "line": 14,
+      "symbol": "Permission.Action.write",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Permission.swift",
+      "line": 16,
+      "symbol": "Permission.action",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Permission.swift",
+      "line": 17,
+      "symbol": "Permission.resource",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Permission.swift",
+      "line": 19,
+      "symbol": "Permission.init(action:resource:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PostBucketRequest.swift",
+      "line": 10,
+      "symbol": "PostBucketRequest",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PostBucketRequest.swift",
+      "line": 12,
+      "symbol": "PostBucketRequest.orgID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PostBucketRequest.swift",
+      "line": 13,
+      "symbol": "PostBucketRequest.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PostBucketRequest.swift",
+      "line": 14,
+      "symbol": "PostBucketRequest.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PostBucketRequest.swift",
+      "line": 15,
+      "symbol": "PostBucketRequest.rp",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PostBucketRequest.swift",
+      "line": 18,
+      "symbol": "PostBucketRequest.schemaType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PostBucketRequest.swift",
+      "line": 20,
+      "symbol": "PostBucketRequest.init(orgID:name:description:rp:retentionRules:schemaType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PostOrganizationRequest.swift",
+      "line": 10,
+      "symbol": "PostOrganizationRequest",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PostOrganizationRequest.swift",
+      "line": 12,
+      "symbol": "PostOrganizationRequest.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PostOrganizationRequest.swift",
+      "line": 13,
+      "symbol": "PostOrganizationRequest.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/PostOrganizationRequest.swift",
+      "line": 15,
+      "symbol": "PostOrganizationRequest.init(name:description:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Ready.swift",
+      "line": 10,
+      "symbol": "Ready",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Ready.swift",
+      "line": 12,
+      "symbol": "Ready.Status",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Ready.swift",
+      "line": 13,
+      "symbol": "Ready.Status.ready",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Ready.swift",
+      "line": 15,
+      "symbol": "Ready.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Ready.swift",
+      "line": 16,
+      "symbol": "Ready.started",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Ready.swift",
+      "line": 17,
+      "symbol": "Ready.up",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Ready.swift",
+      "line": 19,
+      "symbol": "Ready.init(status:started:up:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 10,
+      "symbol": "Resource",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 12,
+      "symbol": "Resource.ModelType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 13,
+      "symbol": "Resource.ModelType.authorizations",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 14,
+      "symbol": "Resource.ModelType.buckets",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 15,
+      "symbol": "Resource.ModelType.dashboards",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 16,
+      "symbol": "Resource.ModelType.orgs",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 17,
+      "symbol": "Resource.ModelType.sources",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 18,
+      "symbol": "Resource.ModelType.tasks",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 19,
+      "symbol": "Resource.ModelType.telegrafs",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 20,
+      "symbol": "Resource.ModelType.users",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 21,
+      "symbol": "Resource.ModelType.variables",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 22,
+      "symbol": "Resource.ModelType.scrapers",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 23,
+      "symbol": "Resource.ModelType.secrets",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 24,
+      "symbol": "Resource.ModelType.labels",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 25,
+      "symbol": "Resource.ModelType.views",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 26,
+      "symbol": "Resource.ModelType.documents",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 27,
+      "symbol": "Resource.ModelType.notificationrules",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 28,
+      "symbol": "Resource.ModelType.notificationendpoints",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 29,
+      "symbol": "Resource.ModelType.checks",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 30,
+      "symbol": "Resource.ModelType.dbrp",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 31,
+      "symbol": "Resource.ModelType.notebooks",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 33,
+      "symbol": "Resource.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Resource.swift",
+      "line": 43,
+      "symbol": "Resource.init(type:id:name:orgID:org:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMember.swift",
+      "line": 10,
+      "symbol": "ResourceMember",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMember.swift",
+      "line": 12,
+      "symbol": "ResourceMember.Status",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMember.swift",
+      "line": 13,
+      "symbol": "ResourceMember.Status.active",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMember.swift",
+      "line": 14,
+      "symbol": "ResourceMember.Status.inactive",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMember.swift",
+      "line": 16,
+      "symbol": "ResourceMember.Role",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMember.swift",
+      "line": 17,
+      "symbol": "ResourceMember.Role.member",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMember.swift",
+      "line": 19,
+      "symbol": "ResourceMember.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMember.swift",
+      "line": 20,
+      "symbol": "ResourceMember.oauthID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMember.swift",
+      "line": 21,
+      "symbol": "ResourceMember.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMember.swift",
+      "line": 24,
+      "symbol": "ResourceMember.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMember.swift",
+      "line": 25,
+      "symbol": "ResourceMember.role",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMember.swift",
+      "line": 27,
+      "symbol": "ResourceMember.init(id:oauthID:name:status:links:role:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMembers.swift",
+      "line": 10,
+      "symbol": "ResourceMembers",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMembers.swift",
+      "line": 12,
+      "symbol": "ResourceMembers.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMembers.swift",
+      "line": 13,
+      "symbol": "ResourceMembers.users",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMembers.swift",
+      "line": 15,
+      "symbol": "ResourceMembers.init(links:users:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMembersLinks.swift",
+      "line": 10,
+      "symbol": "ResourceMembersLinks",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMembersLinks.swift",
+      "line": 12,
+      "symbol": "ResourceMembersLinks._self",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMembersLinks.swift",
+      "line": 14,
+      "symbol": "ResourceMembersLinks.init(_self:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMembersLinks.swift",
+      "line": 18,
+      "symbol": "ResourceMembersLinks.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceMembersLinks.swift",
+      "line": 19,
+      "symbol": "ResourceMembersLinks.CodingKeys._self",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwner.swift",
+      "line": 10,
+      "symbol": "ResourceOwner",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwner.swift",
+      "line": 12,
+      "symbol": "ResourceOwner.Status",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwner.swift",
+      "line": 13,
+      "symbol": "ResourceOwner.Status.active",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwner.swift",
+      "line": 14,
+      "symbol": "ResourceOwner.Status.inactive",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwner.swift",
+      "line": 16,
+      "symbol": "ResourceOwner.Role",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwner.swift",
+      "line": 17,
+      "symbol": "ResourceOwner.Role.owner",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwner.swift",
+      "line": 19,
+      "symbol": "ResourceOwner.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwner.swift",
+      "line": 20,
+      "symbol": "ResourceOwner.oauthID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwner.swift",
+      "line": 21,
+      "symbol": "ResourceOwner.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwner.swift",
+      "line": 24,
+      "symbol": "ResourceOwner.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwner.swift",
+      "line": 25,
+      "symbol": "ResourceOwner.role",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwner.swift",
+      "line": 27,
+      "symbol": "ResourceOwner.init(id:oauthID:name:status:links:role:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwners.swift",
+      "line": 10,
+      "symbol": "ResourceOwners",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwners.swift",
+      "line": 12,
+      "symbol": "ResourceOwners.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwners.swift",
+      "line": 13,
+      "symbol": "ResourceOwners.users",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ResourceOwners.swift",
+      "line": 15,
+      "symbol": "ResourceOwners.init(links:users:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RetentionRule.swift",
+      "line": 10,
+      "symbol": "RetentionRule",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RetentionRule.swift",
+      "line": 12,
+      "symbol": "RetentionRule.ModelType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RetentionRule.swift",
+      "line": 13,
+      "symbol": "RetentionRule.ModelType.expire",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RetentionRule.swift",
+      "line": 15,
+      "symbol": "RetentionRule.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RetentionRule.swift",
+      "line": 21,
+      "symbol": "RetentionRule.init(type:everySeconds:shardGroupDurationSeconds:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Run.swift",
+      "line": 10,
+      "symbol": "Run",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Run.swift",
+      "line": 12,
+      "symbol": "Run.Status",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Run.swift",
+      "line": 13,
+      "symbol": "Run.Status.scheduled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Run.swift",
+      "line": 14,
+      "symbol": "Run.Status.started",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Run.swift",
+      "line": 15,
+      "symbol": "Run.Status.failed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Run.swift",
+      "line": 16,
+      "symbol": "Run.Status.success",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Run.swift",
+      "line": 17,
+      "symbol": "Run.Status.canceled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Run.swift",
+      "line": 19,
+      "symbol": "Run.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Run.swift",
+      "line": 20,
+      "symbol": "Run.taskID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Run.swift",
+      "line": 21,
+      "symbol": "Run.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Run.swift",
+      "line": 32,
+      "symbol": "Run.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Run.swift",
+      "line": 34,
+      "symbol": "Run.init(id:taskID:status:scheduledFor:log:startedAt:finishedAt:requestedAt:links:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RunLinks.swift",
+      "line": 10,
+      "symbol": "RunLinks",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RunLinks.swift",
+      "line": 12,
+      "symbol": "RunLinks._self",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RunLinks.swift",
+      "line": 13,
+      "symbol": "RunLinks.task",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RunLinks.swift",
+      "line": 14,
+      "symbol": "RunLinks.retry",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RunLinks.swift",
+      "line": 16,
+      "symbol": "RunLinks.init(_self:task:retry:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RunLinks.swift",
+      "line": 22,
+      "symbol": "RunLinks.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RunLinks.swift",
+      "line": 23,
+      "symbol": "RunLinks.CodingKeys._self",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RunLinks.swift",
+      "line": 24,
+      "symbol": "RunLinks.CodingKeys.task",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RunLinks.swift",
+      "line": 25,
+      "symbol": "RunLinks.CodingKeys.retry",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RunManually.swift",
+      "line": 10,
+      "symbol": "RunManually",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/RunManually.swift",
+      "line": 15,
+      "symbol": "RunManually.init(scheduledFor:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Runs.swift",
+      "line": 10,
+      "symbol": "Runs",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Runs.swift",
+      "line": 12,
+      "symbol": "Runs.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Runs.swift",
+      "line": 13,
+      "symbol": "Runs.runs",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Runs.swift",
+      "line": 15,
+      "symbol": "Runs.init(links:runs:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SchemaType.swift",
+      "line": 10,
+      "symbol": "SchemaType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SchemaType.swift",
+      "line": 11,
+      "symbol": "SchemaType.implicit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SchemaType.swift",
+      "line": 12,
+      "symbol": "SchemaType.explicit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetRequest.swift",
+      "line": 10,
+      "symbol": "ScraperTargetRequest",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetRequest.swift",
+      "line": 12,
+      "symbol": "ScraperTargetRequest.ModelType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetRequest.swift",
+      "line": 13,
+      "symbol": "ScraperTargetRequest.ModelType.prometheus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetRequest.swift",
+      "line": 28,
+      "symbol": "ScraperTargetRequest.init(name:type:url:orgID:bucketID:allowInsecure:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponse.swift",
+      "line": 10,
+      "symbol": "ScraperTargetResponse",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponse.swift",
+      "line": 12,
+      "symbol": "ScraperTargetResponse.ModelType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponse.swift",
+      "line": 13,
+      "symbol": "ScraperTargetResponse.ModelType.prometheus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponse.swift",
+      "line": 27,
+      "symbol": "ScraperTargetResponse.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponse.swift",
+      "line": 32,
+      "symbol": "ScraperTargetResponse.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponse.swift",
+      "line": 34,
+      "symbol": "ScraperTargetResponse.init(name:type:url:orgID:bucketID:allowInsecure:id:org:bucket:links:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponseAllOfLinks.swift",
+      "line": 10,
+      "symbol": "ScraperTargetResponseAllOfLinks",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponseAllOfLinks.swift",
+      "line": 23,
+      "symbol": "ScraperTargetResponseAllOfLinks.init(_self:members:owners:bucket:organization:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponseAllOfLinks.swift",
+      "line": 31,
+      "symbol": "ScraperTargetResponseAllOfLinks.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponseAllOfLinks.swift",
+      "line": 32,
+      "symbol": "ScraperTargetResponseAllOfLinks.CodingKeys._self",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponseAllOfLinks.swift",
+      "line": 33,
+      "symbol": "ScraperTargetResponseAllOfLinks.CodingKeys.members",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponseAllOfLinks.swift",
+      "line": 34,
+      "symbol": "ScraperTargetResponseAllOfLinks.CodingKeys.owners",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponseAllOfLinks.swift",
+      "line": 35,
+      "symbol": "ScraperTargetResponseAllOfLinks.CodingKeys.bucket",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponseAllOfLinks.swift",
+      "line": 36,
+      "symbol": "ScraperTargetResponseAllOfLinks.CodingKeys.organization",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponses.swift",
+      "line": 10,
+      "symbol": "ScraperTargetResponses",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponses.swift",
+      "line": 12,
+      "symbol": "ScraperTargetResponses.configurations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/ScraperTargetResponses.swift",
+      "line": 14,
+      "symbol": "ScraperTargetResponses.init(configurations:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SecretKeys.swift",
+      "line": 10,
+      "symbol": "SecretKeys",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SecretKeys.swift",
+      "line": 12,
+      "symbol": "SecretKeys.secrets",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SecretKeys.swift",
+      "line": 14,
+      "symbol": "SecretKeys.init(secrets:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SecretKeysResponse.swift",
+      "line": 10,
+      "symbol": "SecretKeysResponse",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SecretKeysResponse.swift",
+      "line": 12,
+      "symbol": "SecretKeysResponse.secrets",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SecretKeysResponse.swift",
+      "line": 13,
+      "symbol": "SecretKeysResponse.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SecretKeysResponse.swift",
+      "line": 15,
+      "symbol": "SecretKeysResponse.init(secrets:links:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SecretKeysResponseAllOfLinks.swift",
+      "line": 10,
+      "symbol": "SecretKeysResponseAllOfLinks",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SecretKeysResponseAllOfLinks.swift",
+      "line": 12,
+      "symbol": "SecretKeysResponseAllOfLinks._self",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SecretKeysResponseAllOfLinks.swift",
+      "line": 13,
+      "symbol": "SecretKeysResponseAllOfLinks.org",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SecretKeysResponseAllOfLinks.swift",
+      "line": 15,
+      "symbol": "SecretKeysResponseAllOfLinks.init(_self:org:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SecretKeysResponseAllOfLinks.swift",
+      "line": 20,
+      "symbol": "SecretKeysResponseAllOfLinks.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SecretKeysResponseAllOfLinks.swift",
+      "line": 21,
+      "symbol": "SecretKeysResponseAllOfLinks.CodingKeys._self",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SecretKeysResponseAllOfLinks.swift",
+      "line": 22,
+      "symbol": "SecretKeysResponseAllOfLinks.CodingKeys.org",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 10,
+      "symbol": "Source",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 12,
+      "symbol": "Source.ModelType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 13,
+      "symbol": "Source.ModelType.v1",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 14,
+      "symbol": "Source.ModelType.v2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 15,
+      "symbol": "Source.ModelType._self",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 17,
+      "symbol": "Source.Languages",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 18,
+      "symbol": "Source.Languages.flux",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 19,
+      "symbol": "Source.Languages.influxql",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 21,
+      "symbol": "Source.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 22,
+      "symbol": "Source.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 23,
+      "symbol": "Source.orgID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 24,
+      "symbol": "Source._default",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 25,
+      "symbol": "Source.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 26,
+      "symbol": "Source.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 27,
+      "symbol": "Source.url",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 28,
+      "symbol": "Source.insecureSkipVerify",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 29,
+      "symbol": "Source.telegraf",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 30,
+      "symbol": "Source.token",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 31,
+      "symbol": "Source.username",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 32,
+      "symbol": "Source.password",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 33,
+      "symbol": "Source.sharedSecret",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 34,
+      "symbol": "Source.metaUrl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 35,
+      "symbol": "Source.defaultRP",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 36,
+      "symbol": "Source.languages",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 38,
+      "symbol": "Source.init(links:id:orgID:_default:name:type:url:insecureSkipVerify:telegraf:token:username:password:sharedSecret:metaUrl:defaultRP:languages:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 57,
+      "symbol": "Source.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 58,
+      "symbol": "Source.CodingKeys.links",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 59,
+      "symbol": "Source.CodingKeys.id",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 60,
+      "symbol": "Source.CodingKeys.orgID",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 61,
+      "symbol": "Source.CodingKeys._default",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 62,
+      "symbol": "Source.CodingKeys.name",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 63,
+      "symbol": "Source.CodingKeys.type",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 64,
+      "symbol": "Source.CodingKeys.url",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 65,
+      "symbol": "Source.CodingKeys.insecureSkipVerify",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 66,
+      "symbol": "Source.CodingKeys.telegraf",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 67,
+      "symbol": "Source.CodingKeys.token",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 68,
+      "symbol": "Source.CodingKeys.username",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 69,
+      "symbol": "Source.CodingKeys.password",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 70,
+      "symbol": "Source.CodingKeys.sharedSecret",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 71,
+      "symbol": "Source.CodingKeys.metaUrl",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 72,
+      "symbol": "Source.CodingKeys.defaultRP",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Source.swift",
+      "line": 73,
+      "symbol": "Source.CodingKeys.languages",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SourceLinks.swift",
+      "line": 10,
+      "symbol": "SourceLinks",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SourceLinks.swift",
+      "line": 12,
+      "symbol": "SourceLinks._self",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SourceLinks.swift",
+      "line": 13,
+      "symbol": "SourceLinks.query",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SourceLinks.swift",
+      "line": 14,
+      "symbol": "SourceLinks.health",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SourceLinks.swift",
+      "line": 15,
+      "symbol": "SourceLinks.buckets",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SourceLinks.swift",
+      "line": 17,
+      "symbol": "SourceLinks.init(_self:query:health:buckets:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SourceLinks.swift",
+      "line": 24,
+      "symbol": "SourceLinks.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SourceLinks.swift",
+      "line": 25,
+      "symbol": "SourceLinks.CodingKeys._self",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SourceLinks.swift",
+      "line": 26,
+      "symbol": "SourceLinks.CodingKeys.query",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SourceLinks.swift",
+      "line": 27,
+      "symbol": "SourceLinks.CodingKeys.health",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/SourceLinks.swift",
+      "line": 28,
+      "symbol": "SourceLinks.CodingKeys.buckets",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Sources.swift",
+      "line": 10,
+      "symbol": "Sources",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Sources.swift",
+      "line": 12,
+      "symbol": "Sources.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Sources.swift",
+      "line": 13,
+      "symbol": "Sources.sources",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Sources.swift",
+      "line": 15,
+      "symbol": "Sources.init(links:sources:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Task.swift",
+      "line": 10,
+      "symbol": "Task",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Task.swift",
+      "line": 12,
+      "symbol": "Task.LastRunStatus",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Task.swift",
+      "line": 13,
+      "symbol": "Task.LastRunStatus.failed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Task.swift",
+      "line": 14,
+      "symbol": "Task.LastRunStatus.success",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Task.swift",
+      "line": 15,
+      "symbol": "Task.LastRunStatus.canceled",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Task.swift",
+      "line": 17,
+      "symbol": "Task.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Task.swift",
+      "line": 28,
+      "symbol": "Task.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Task.swift",
+      "line": 29,
+      "symbol": "Task.labels",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Task.swift",
+      "line": 42,
+      "symbol": "Task.lastRunStatus",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Task.swift",
+      "line": 43,
+      "symbol": "Task.lastRunError",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Task.swift",
+      "line": 44,
+      "symbol": "Task.createdAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Task.swift",
+      "line": 45,
+      "symbol": "Task.updatedAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Task.swift",
+      "line": 46,
+      "symbol": "Task.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Task.swift",
+      "line": 48,
+      "symbol": "Task.init(id:type:orgID:org:name:description:status:labels:authorizationID:flux:every:cron:offset:latestCompleted:lastRunStatus:lastRunError:createdAt:updatedAt:links:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskCreateRequest.swift",
+      "line": 10,
+      "symbol": "TaskCreateRequest",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskCreateRequest.swift",
+      "line": 16,
+      "symbol": "TaskCreateRequest.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskCreateRequest.swift",
+      "line": 22,
+      "symbol": "TaskCreateRequest.init(orgID:org:status:flux:description:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskLinks.swift",
+      "line": 10,
+      "symbol": "TaskLinks",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskLinks.swift",
+      "line": 25,
+      "symbol": "TaskLinks.init(_self:owners:members:runs:logs:labels:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskLinks.swift",
+      "line": 34,
+      "symbol": "TaskLinks.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskLinks.swift",
+      "line": 35,
+      "symbol": "TaskLinks.CodingKeys._self",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskLinks.swift",
+      "line": 36,
+      "symbol": "TaskLinks.CodingKeys.owners",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskLinks.swift",
+      "line": 37,
+      "symbol": "TaskLinks.CodingKeys.members",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskLinks.swift",
+      "line": 38,
+      "symbol": "TaskLinks.CodingKeys.runs",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskLinks.swift",
+      "line": 39,
+      "symbol": "TaskLinks.CodingKeys.logs",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskLinks.swift",
+      "line": 40,
+      "symbol": "TaskLinks.CodingKeys.labels",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskStatusType.swift",
+      "line": 10,
+      "symbol": "TaskStatusType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskStatusType.swift",
+      "line": 11,
+      "symbol": "TaskStatusType.active",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskStatusType.swift",
+      "line": 12,
+      "symbol": "TaskStatusType.inactive",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskUpdateRequest.swift",
+      "line": 10,
+      "symbol": "TaskUpdateRequest",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskUpdateRequest.swift",
+      "line": 12,
+      "symbol": "TaskUpdateRequest.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/TaskUpdateRequest.swift",
+      "line": 26,
+      "symbol": "TaskUpdateRequest.init(status:flux:name:every:cron:offset:description:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Tasks.swift",
+      "line": 10,
+      "symbol": "Tasks",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Tasks.swift",
+      "line": 12,
+      "symbol": "Tasks.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Tasks.swift",
+      "line": 13,
+      "symbol": "Tasks.tasks",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Tasks.swift",
+      "line": 15,
+      "symbol": "Tasks.init(links:tasks:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/User.swift",
+      "line": 10,
+      "symbol": "User",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/User.swift",
+      "line": 12,
+      "symbol": "User.Status",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/User.swift",
+      "line": 13,
+      "symbol": "User.Status.active",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/User.swift",
+      "line": 14,
+      "symbol": "User.Status.inactive",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/User.swift",
+      "line": 16,
+      "symbol": "User.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/User.swift",
+      "line": 17,
+      "symbol": "User.oauthID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/User.swift",
+      "line": 18,
+      "symbol": "User.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/User.swift",
+      "line": 22,
+      "symbol": "User.init(id:oauthID:name:status:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/UserResponse.swift",
+      "line": 10,
+      "symbol": "UserResponse",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/UserResponse.swift",
+      "line": 12,
+      "symbol": "UserResponse.Status",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/UserResponse.swift",
+      "line": 13,
+      "symbol": "UserResponse.Status.active",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/UserResponse.swift",
+      "line": 14,
+      "symbol": "UserResponse.Status.inactive",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/UserResponse.swift",
+      "line": 16,
+      "symbol": "UserResponse.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/UserResponse.swift",
+      "line": 17,
+      "symbol": "UserResponse.oauthID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/UserResponse.swift",
+      "line": 18,
+      "symbol": "UserResponse.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/UserResponse.swift",
+      "line": 21,
+      "symbol": "UserResponse.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/UserResponse.swift",
+      "line": 23,
+      "symbol": "UserResponse.init(id:oauthID:name:status:links:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/UserResponseLinks.swift",
+      "line": 10,
+      "symbol": "UserResponseLinks",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/UserResponseLinks.swift",
+      "line": 12,
+      "symbol": "UserResponseLinks._self",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/UserResponseLinks.swift",
+      "line": 14,
+      "symbol": "UserResponseLinks.init(_self:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/UserResponseLinks.swift",
+      "line": 18,
+      "symbol": "UserResponseLinks.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/UserResponseLinks.swift",
+      "line": 19,
+      "symbol": "UserResponseLinks.CodingKeys._self",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Users.swift",
+      "line": 10,
+      "symbol": "Users",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Users.swift",
+      "line": 12,
+      "symbol": "Users.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Users.swift",
+      "line": 13,
+      "symbol": "Users.users",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Users.swift",
+      "line": 15,
+      "symbol": "Users.init(links:users:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Variable.swift",
+      "line": 10,
+      "symbol": "Variable",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Variable.swift",
+      "line": 12,
+      "symbol": "Variable.links",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Variable.swift",
+      "line": 13,
+      "symbol": "Variable.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Variable.swift",
+      "line": 14,
+      "symbol": "Variable.orgID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Variable.swift",
+      "line": 15,
+      "symbol": "Variable.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Variable.swift",
+      "line": 16,
+      "symbol": "Variable.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Variable.swift",
+      "line": 17,
+      "symbol": "Variable.selected",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Variable.swift",
+      "line": 18,
+      "symbol": "Variable.labels",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Variable.swift",
+      "line": 19,
+      "symbol": "Variable.arguments",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Variable.swift",
+      "line": 20,
+      "symbol": "Variable.createdAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Variable.swift",
+      "line": 21,
+      "symbol": "Variable.updatedAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Variable.swift",
+      "line": 23,
+      "symbol": "Variable.init(links:id:orgID:name:description:selected:labels:arguments:createdAt:updatedAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/VariableLinks.swift",
+      "line": 10,
+      "symbol": "VariableLinks",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/VariableLinks.swift",
+      "line": 12,
+      "symbol": "VariableLinks._self",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/VariableLinks.swift",
+      "line": 13,
+      "symbol": "VariableLinks.org",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/VariableLinks.swift",
+      "line": 14,
+      "symbol": "VariableLinks.labels",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/VariableLinks.swift",
+      "line": 16,
+      "symbol": "VariableLinks.init(_self:org:labels:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/VariableLinks.swift",
+      "line": 22,
+      "symbol": "VariableLinks.CodingKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/VariableLinks.swift",
+      "line": 23,
+      "symbol": "VariableLinks.CodingKeys._self",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/VariableLinks.swift",
+      "line": 24,
+      "symbol": "VariableLinks.CodingKeys.org",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/VariableLinks.swift",
+      "line": 25,
+      "symbol": "VariableLinks.CodingKeys.labels",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/VariableProperties.swift",
+      "line": 10,
+      "symbol": "VariableProperties",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/VariableProperties.swift",
+      "line": 12,
+      "symbol": "VariableProperties.ModelType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/VariableProperties.swift",
+      "line": 13,
+      "symbol": "VariableProperties.ModelType.map",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/VariableProperties.swift",
+      "line": 15,
+      "symbol": "VariableProperties.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/VariableProperties.swift",
+      "line": 16,
+      "symbol": "VariableProperties.values",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/VariableProperties.swift",
+      "line": 18,
+      "symbol": "VariableProperties.init(type:values:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Variables.swift",
+      "line": 10,
+      "symbol": "Variables",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Variables.swift",
+      "line": 12,
+      "symbol": "Variables.variables",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models/Variables.swift",
+      "line": 14,
+      "symbol": "Variables.init(variables:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 16,
+      "symbol": "DownloadException",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 17,
+      "symbol": "DownloadException.responseDataMissing",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 18,
+      "symbol": "DownloadException.responseFailed",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 19,
+      "symbol": "DownloadException.requestMissing",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 20,
+      "symbol": "DownloadException.requestMissingPath",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 21,
+      "symbol": "DownloadException.requestMissingURL",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 24,
+      "symbol": "DecodableRequestBuilderError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 25,
+      "symbol": "DecodableRequestBuilderError.emptyDataResponse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 26,
+      "symbol": "DecodableRequestBuilderError.nilHTTPResponse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 27,
+      "symbol": "DecodableRequestBuilderError.unsuccessfulHTTPStatusCode",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 28,
+      "symbol": "DecodableRequestBuilderError.jsonDecoding(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 29,
+      "symbol": "DecodableRequestBuilderError.generalError(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 33,
+      "symbol": "Response",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 34,
+      "symbol": "Response.statusCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 35,
+      "symbol": "Response.header",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 36,
+      "symbol": "Response.body",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 38,
+      "symbol": "Response.init(statusCode:header:body:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/Models.swift",
+      "line": 44,
+      "symbol": "Response.init(response:body:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/URLSessionImplementations.swift",
+      "line": 342,
+      "symbol": "HTTPMethod",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/URLSessionImplementations.swift",
+      "line": 343,
+      "symbol": "HTTPMethod.options",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/URLSessionImplementations.swift",
+      "line": 344,
+      "symbol": "HTTPMethod.get",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/URLSessionImplementations.swift",
+      "line": 345,
+      "symbol": "HTTPMethod.head",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/URLSessionImplementations.swift",
+      "line": 346,
+      "symbol": "HTTPMethod.post",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/URLSessionImplementations.swift",
+      "line": 347,
+      "symbol": "HTTPMethod.put",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/URLSessionImplementations.swift",
+      "line": 348,
+      "symbol": "HTTPMethod.patch",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/URLSessionImplementations.swift",
+      "line": 349,
+      "symbol": "HTTPMethod.delete",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/URLSessionImplementations.swift",
+      "line": 350,
+      "symbol": "HTTPMethod.trace",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/URLSessionImplementations.swift",
+      "line": 351,
+      "symbol": "HTTPMethod.connect",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/URLSessionImplementations.swift",
+      "line": 354,
+      "symbol": "ParameterEncoding",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bednar/Developer/influxdata/influxdb-client-swift/Sources/InfluxDBSwiftApis/Generated/URLSessionImplementations.swift",
+      "line": 355,
+      "symbol": "ParameterEncoding.encode(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/bednar/Developer/influxdata/influxdb-client-swift"
+}
